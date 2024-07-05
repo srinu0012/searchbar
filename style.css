@@ -8,7 +8,7 @@ body{
 }
 .container{
     margin-top: 5vh;
-    width: 100vh;
+    width: 100vw;
     display: flex;
     justify-content: center;
     background-color: #333;
@@ -34,7 +34,7 @@ input:focus{
 }
 #icon{
     position:relative;
-    left:-17%;
+    left:-23vh;
     top: 1.2vh;
     z-index: 1;
     display: none;
